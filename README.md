@@ -143,10 +143,6 @@ The skill explicitly does NOT cover:
 
 For these, the skill redirects to qualified specialists (startup lawyer, lead investor partner, experienced operator, etc.) rather than hallucinating specifics.
 
-## Author
-
-yuanxuan
-
 ## License
 
 MIT
